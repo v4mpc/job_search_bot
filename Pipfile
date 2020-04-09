@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 bs4 = "*"
+slackclient = "*"
 
 [requires]
 python_version = "3.6"
