@@ -36,7 +36,7 @@ def mySlack(slack_block):
 	]
     for block in slack_block:
         template_block.append(block)
-    print(template_block)
+    # print(template_block)
 
     client.chat_postMessage(
     channel="CG7BZF52B",
